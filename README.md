@@ -1,2 +1,2 @@
-# proyectos-py
+# Proyectos-py
 Proyectos Python 3 - EDX Course
