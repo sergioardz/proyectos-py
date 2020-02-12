@@ -8,7 +8,6 @@ Created on Wed Feb  5 15:52:44 2020
 
 #import re
 
-
 def validate(username):
     if len(username) <= 0:
         return False

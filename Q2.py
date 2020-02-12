@@ -26,7 +26,6 @@ Created on Wed Feb  5 15:31:32 2020
 #
 #print(john_mary('John&Mary'))
 
-
 def john_mary(str):
     john = 'John'
     mary = 'Mary'

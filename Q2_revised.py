@@ -32,6 +32,7 @@ def john_mary(str):
             mary += 1
     # Return boolean value
     return john == mary
+    
 
 print(john_mary('John&Mary'))
         
