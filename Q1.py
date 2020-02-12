@@ -21,5 +21,6 @@ def areas(r, a):
     res.append(segment)
     res.append(outside)
     return res
+    
 
 print(areas(10, 90));

@@ -40,7 +40,6 @@ print(fibonacci(14))
 #    fibo.append(i + aux)
 #print(fibo)
 
-
 #def fibonacci(a):
 #    if a == 0:
 #        return 1
